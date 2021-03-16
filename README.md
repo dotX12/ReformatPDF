@@ -1,11 +1,9 @@
 # ReformatPDF
 A program that allows you to convert large PDF tables to JSON for further work.
-
-<details>
-<summary>Big image</summary>
-  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64792903/111344904-d95a0c00-868d-11eb-9fb3-23fd1d92d8dc.png">
+  <img src="https://user-images.githubusercontent.com/64792903/111350987-bd596900-8693-11eb-891a-8bc76de59b70.png">
+<br><br>
+  <img src="https://user-images.githubusercontent.com/64792903/111351582-5d16f700-8694-11eb-85b6-fc4505cf64fc.png">
 </p>
 </details>
 
