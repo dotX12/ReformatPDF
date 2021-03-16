@@ -7,6 +7,162 @@
         "consent": "21",
         "students": [
             {
+                "name": "Бибко Ксения Вадимовна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Буданова Надежда Сергеевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Валиуллина Валерия Олеговна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Вардуни Анжелика Александровна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гарина Любовь Борисовна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Глухова Яна Валерьевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Донченко Анастасия Руслановна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Дубина Валерия Юрьевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Захарченко Виктория Рубеновна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Карелина Валерия Владимировна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Карташова Александра Сергеевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ковальцова Ольга Муратовна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Колобекова Юлия Владимировна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кузнецов Вадим Романович",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кукса Влада Валерьевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Лабазова Надежда Олеговна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Лысенко Елизавета Сергеевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Ляднов Виктор Николаевич",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Макарян Лиана Самвеловна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Моторыкина Юлия Витальевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Оленева Алёна Владимировна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Панасова Валентина Юрьевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Пинул Ксения Васильевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Полякова Юлия Николаевна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ревякина Юлия Викторовна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Романова Лора Владимировна",
+                "form_of_education": "Специалитет",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
                 "name": "Рощинина Алина Алексеевна",
                 "form_of_education": "Специалитет",
                 "document_type": "Копия",
@@ -100,7 +256,313 @@
         "consent": "25",
         "students": [
             {
+                "name": "Александрова Валерия Матвеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Багишева Анастасия Имрановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Башенина Юлия Витальевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Бонах Анастасия Борисовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Бочкун Вероника Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Валинчус Игорь Евгеньевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Воскресенская Юлия Евгеньевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Галицкая Николь Федоровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гаркушина Елизавета Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гербер Освальд ",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Головлева Марина Ивановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Гостева Татьяна Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Григорьева Софья Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Громакова Екатерина Викторовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Диденко Дарья Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Дмитрова Ангелина Витальевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Егорова Анна Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Жалнина Екатерина Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Желдакова Елена Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
                 "name": "Железняк Вероника Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Затоковенко Алиса Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кашаварова Полина Олеговна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Клименко Анна Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Ковалева Ирина Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Копытова Валерия Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Коренькова Анастасия Вадимовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Корниец Екатерина Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Костюченко Екатерина Павловна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Купленская Анастасия Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Лоншакова Анна Валерьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Лысенко Екатерина Михайловна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Мескина Милана Руслановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Минаков Никита Сергеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Николаева Мария Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Павская Елена Павловна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Решетнева Камилла Олеговна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Русакова Ксения Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Сагаев Алан Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Самарцева Светлана Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Светикова Светлана Валерьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Светлова Мария Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Смирнов Александр Сергеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Соболева Полина Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Стрикитченко Анастасия Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Тарасенко Анастасия Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Тищенко Екатерина Олеговна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Тупогузова Алина Эдуардовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Турянская Дарья Дмитриевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Харитонова Анна Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Хилик Екатерина Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Хуснуллина Кристина Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Чапкий Никита Владимирович",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
                 "consent": true
@@ -145,10 +607,364 @@
         "consent": "97",
         "students": [
             {
+                "name": "Абалмасов Александр Юрьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Аладышев Александр Владиславович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Аливердиева Оксана Фируддиновна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Алиев Александр Викторович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Арзуманова Елизавета Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Аркатов Александр Андреевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Арутюнян Лусине Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Афанасьев Илья Валерьвич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Бабошина Ксения Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Борисов Сергей Юрьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Борцова Ангелина Владиславовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Букарев Игорь Олегович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Бунтов Петр Николаевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Бутенко Герман Вячеславович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Валько Алина Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Варткинаян Артем Игоревич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Васильцов Александр Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Веревкин Артур Сергеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Волгин Григорий Алексеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Воронцова Влада Максимовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Гаджиев Руслан Парвиз Оглы",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Гадзиева Маргарита Аркадьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гайко Тимур Артурович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Гапоненко Вероника Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Гардава Давид Гелаевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Грановский Николай Михайлович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гриценко Анна Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
                 "name": "Губкин Сергей Александрович",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
                 "consent": false
+            },
+            {
+                "name": "Гучмазов Тимур Станиславович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Давыдов Даниил Денисович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Данилов Владислав Витальевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Дацюк Виктория Юрьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Демьяненко Марк Игоревич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Джибгашвили Анна Багратовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Дмитриева Виктория Денисовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Дубовская Светлана Руслановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Дужий Руслан Иванович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Дулимов Игорь Николаевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Екимова Алёна Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Елисеев Максим Михайлович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ершова Татьяна Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Жукова Элина Романовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Заикина Татьяна Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Захарова Александра Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Иванов Михаил Геннадьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Интоян Давид Эдуардович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Казакова Екатерина Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Карапетян Арминэ Вагановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Каташевский Максим Вадимович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Квон Константин Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ким Виктория Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ким Игорь Валериевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кожин Виталий Алексеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Колесников Сергей Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Колобова Елизавета Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Комарова Снежана Алексеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Коновалова Анастасия Руслановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Котикова Екатерина Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Котляренко Римма Дмитриевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Красиков Евгений Витальевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
             },
             {
                 "name": "Красноглазова Нелли Витальевна",
@@ -157,7 +973,391 @@
                 "consent": true
             },
             {
+                "name": "Креснякова Алина Романовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кривко Кирилл Юрьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Кубракова Елена Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Кузовкина Вероника Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Куликов Павел Сергеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Курьянова Дарья Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Литовченко Александр Денисович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Логунов Владислав Павлович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Лопина Владислава Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Любченко Валерия Витальевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Малхасян Александр Ашотович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Маркова Юлия Олеговна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Мартынова Карина Эдуардовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Матюхина Карина Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Медведев Кирилл Алексеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Медведева Диана Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Мелехов Роман Дмитриевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Минибаева Ландыш Рафаилевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Мироненко Алина Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Моисеенко Ирина Юрьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Мурадханов Хизри Муртазалиевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Мусаев Анар Ташаккюрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Нарыжная Яна Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Недбайлова Анастасия Геннадьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Никитина Вероника Георгиевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Николенко Никита Николаевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Новикова Ольга Ивановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Нурбагомедов Расим Магомедович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Обухова Анна Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Оганесян Лаура Львовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Оганян Ольга Асватуровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Ожерельева Алена Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
                 "name": "Осипов Илья Вячеславович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Паршикова Анна Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Петрова Татьяна Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Пинегин Владислав Владимирович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Писанко Елизавета Валерьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Плахута Валерия Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Плетникова Юлия Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Подскребалина Екатерина Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Полозова Эмилия Денисовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Поляченко Юлия Васильевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Попов Александр Юрьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Принь Анастасия Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Растигаева Мария Андреевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Рачинский Константин Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Романова Лолита Романовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Романченко Валерия Георгиевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Рыбалкина Дарья Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Рыжих Иван Викторович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Савченко Максим Сергеевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Саркисьянц Ашот Рубенович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Свинаренко Марина Евгеньевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Седошенко Валерия Викторовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Середа Елизавета Викторовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Серикова Виктория Геннадьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Синенко Яна Витальевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Скрипин Леонид Александрович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Солод Ольга Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Спинова Ирина Константиновна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Срабян Мариам Амаяковна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Степаненко Мария Максимовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Степанищева Алина Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Степанян Артавазд Саркисович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Стрельцова Сабина Сергеевна",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
                 "consent": true
@@ -334,6 +1534,42 @@
         "consent": "10",
         "students": [
             {
+                "name": "Акатовская Анна Дмитриевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Бараненко Юлия Дмитриевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Волкова Екатерина Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Горобец Артем Юрьевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Гущеня Ксения Николаевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Дидычук Олег Витальевич",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
                 "name": "Ефимова Елизавета Олеговна",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
@@ -426,6 +1662,114 @@
         "applications": "32",
         "consent": "11",
         "students": [
+            {
+                "name": "Абду Ислам Эльсайед Мохамед Хабиб ",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Алехова Анна Александровна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Верченко Татьяна Владимировна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Голыдьбина Полина Витальевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Докукина Алиса Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Жидких Юлия Васильевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Зверева Влада Дмитриевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Ибрагимова Марет Казбековна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Капустина Дарья Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Кербс Екатерина Романовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Ковалева Полина Игоревна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Колмаков Ярослав Владимирович",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Кулишова Галина Юрьевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Меликян Манушак Мушеговна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Михайлова Вероника Руслановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Нелепа Алина Викторовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Носкова Валерия Викторовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
+                "name": "Осипова Лариса Евгеньевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
             {
                 "name": "Подгорнов Андрей Валерьевич",
                 "form_of_education": "Бакалавриат",
@@ -664,6 +2008,30 @@
                 "consent": false
             },
             {
+                "name": "Лушпай Лидия Ивановна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Максимова Валентина Борисовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Мурыкина Юлия Романовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Назаренко Елена Вячеславовна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": true
+            },
+            {
                 "name": "Печеник Анастасия Сергеевна",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
@@ -731,6 +2099,12 @@
             },
             {
                 "name": "Щепелева Анастасия Сергеевна",
+                "form_of_education": "Бакалавриат",
+                "document_type": "Копия",
+                "consent": false
+            },
+            {
+                "name": "Ященко Мирослава Олеговна",
                 "form_of_education": "Бакалавриат",
                 "document_type": "Копия",
                 "consent": false
