@@ -38,7 +38,7 @@ class ReformatPDF:
                     temp_faculty['students'].append(i_value)
         return new_faculties
 
-    def translate(self, pdf_name: str, new_json_name: str = 'reformatted_pdf.json', delete_temp: int = 0) -> None:
+    def translate(self, pdf_name: str, new_json_name: str = 'reformatted_pdf.json', delete_temp: bool = True) -> None:
         if is_file(pdf_name):
             new_pdf_path = f"TEMP/{os.path.basename(pdf_name)}"
             temp_json_name = f"{new_pdf_path}_{''.join(choices(string.ascii_uppercase + string.digits, k=16))}.json"
