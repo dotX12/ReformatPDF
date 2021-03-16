@@ -42,14 +42,16 @@ class ReformatData(FormatDict):
         self.data = data_dict
 
     def reformat(self) -> dict:
-        if ((len(self.data) == 1 or len(self.data[0]['text']) > self.max_len_code_symbols) or
-                (not self.data[0]['text'] and not self.data[1]['text'] and not self.data[2]['text'])):
+        if len(self.data) == 1 or len(self.data[0]['text']) > self.max_len_code_symbols:
             pass
         else:
             if self.data[2]['text']:
                 return self.normalize_faculty_info()
-            if self.data[0]['text'] and self.data[1]['text']:
-                return self.normalize_user_info_1()
+            if self.data[0]['text']:
+                if self.data[1]['text']:
+                    return self.normalize_user_info_1()
+                if self.data[3]['text']:
+                    return self.normalize_user_info_0()
             if not self.data[0]['text'] and not self.data[3]['text']:
                 return self.normalize_user_info_1()
             else:
